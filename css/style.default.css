@@ -269,6 +269,11 @@ CONTACT SECTION
   margin-bottom: 40px;
 }
 
+.social {
+  padding-top: 10px;
+  text-align: right
+}
+
 p.social {
   text-align: center;
   margin-top: 20px;
@@ -306,9 +311,9 @@ p.social a.twitter {
   background-color: #aaa;
 }
 
-p.social a.instagram {
+/* p.social a.instagram {
   background-color: #999;
-}
+} */
 
 p.social a.email {
   background-color: #666;
